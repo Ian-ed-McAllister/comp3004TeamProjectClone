@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>blackHeart.png</file>
+        <file>downButton.png</file>
+        <file>heart.png</file>
+        <file>leftButton.png</file>
+        <file>rightButton.png</file>
+        <file>upButton.png</file>
+        <file>backButton.png</file>
+        <file>menu.png</file>
+        <file>chargeBattery.png</file>
+        <file>powerButton.png</file>
+    </qresource>
+</RCC>
